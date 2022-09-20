@@ -1,4 +1,4 @@
-# Python Problem Solving Find The LoggedIn Users In The Network
+# Python Problem Solving Find The Logged-in Users In The Network
 
 ## Problem statement:
 Need to create a program to check which all user are currently logged in the different machines in network. Exclude users who have already logged-out.
